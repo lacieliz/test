@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/lacieliz/test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/lacieliz/SmartPad.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\HJuLee\AndroidStudioProjects" />
